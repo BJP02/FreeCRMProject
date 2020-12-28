@@ -11,13 +11,12 @@ import com.crm.pages.ContactsPage;
 import com.crm.pages.HomePage;
 import com.crm.pages.LoginPage;
 import com.crm.util.TestUtil;
-
+// wrote this message from github
 
 public class ContactsPageTest extends TestBase  {
 
 	  LoginPage lp;
 	     HomePage hp;
-//		TestUtil tu;     //created when your userdisplay is in frame 
 	    ContactsPage cp;
 	     
 	     
