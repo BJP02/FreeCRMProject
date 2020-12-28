@@ -12,6 +12,7 @@ import com.crm.pages.HomePage;
 import com.crm.pages.LoginPage;
 import com.crm.util.TestUtil;
 // wrote this message from github
+//wrote this message from eclipse
 
 public class ContactsPageTest extends TestBase  {
 
